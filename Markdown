@@ -1,0 +1,2 @@
+# Learned about github in general
+# Confused about git Bash vs the online version I'm on now.
